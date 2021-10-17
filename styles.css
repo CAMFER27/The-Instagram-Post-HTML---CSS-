@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+}
+
+
+.container {
+    text-align: center;
+}
+
+
+.header{
+    display: flex;
+    text-align: center;
+    height: 1%;   
+    width: 100%;
+}
+
+
+.icon {
+    display: flex;
+    margin-left: 35%;
+    padding: 20px;
+    display: flex;
+}
+
+.menu{
+    margin-left: 22%;
+    padding: 20px;
+}
+
+
+.icon2{
+    margin-left: 30%;
+}
+
+i {
+    font-size: 40px;
+}
+
+.name {
+    padding-top: 1%;
+}
+
+.container2 {
+     width: 80%;
+    height: 80%;
+    text-align: left;
+    padding-left: 41%;
+}
+
